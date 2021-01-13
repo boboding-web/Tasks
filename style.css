@@ -1,8 +1,8 @@
 .div1{
     width: 1500px;
     height: 1010px;
-    background-image: url(../Tasks/images/geek.png),
-    url(../Tasks/images/首页背景.png);
+    background-image: url(images/geek.png),
+    url(images/首页背景.png);
                       
     background-position: center top 160px,center center;        
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@
 .div2{
     width: 1500px;
     height: 200px;
-    background-image: url(../Tasks/images/过渡花纹.png);
+    background-image: url(images/过渡花纹.png);
     background-repeat: no-repeat;
     background-size: contain;
     text-align: center;
@@ -33,7 +33,7 @@
 .background3{
     width: 750px;
     height: 700px;
-    background-image: url(../Tasks/images/houzi.png);
+    background-image: url(images/houzi.png);
     background-repeat: no-repeat;
     background-size: contain;
     
@@ -53,7 +53,7 @@
 .background4{
     width: 750px;
     height: 700px;
-    background-image: url(../Tasks/images/chanpin.png);
+    background-image: url(images/chanpin.png);
     background-repeat: no-repeat;
     background-size: contain;
     float: right;
@@ -71,7 +71,7 @@
 .background5{
     width: 750px;
     height: 700px;
-    background-image: url(../Tasks/images/ai.png);
+    background-image: url(images/ai.png);
     background-repeat: no-repeat;
     background-size: contain;
     
@@ -91,7 +91,7 @@
 .background6{
     width: 750px;
     height: 700px;
-    background-image: url(../Tasks/images/anquan.png);
+    background-image: url(images/anquan.png);
     background-repeat: no-repeat;
     background-size: contain;
     float: right;
@@ -111,7 +111,7 @@
 .div8{
     width: 1500px;
     height: 600px;
-    background-image: url(../Tasks/images/hudie.png);
+    background-image: url(images/hudie.png);
     background-position: 1230px 330px;
     background-size: 100px;
     background-repeat: no-repeat;
@@ -151,9 +151,9 @@
 .div9{
     width: 1500px;
     height: 500px;
-    background-image: url(../Tasks/images/yezi1.png),
-    url(../Tasks/images/树.png),
-    url(../Tasks/images/橘色变色龙.png);
+    background-image: url(images/yezi1.png),
+    url(images/树.png),
+    url(images/橘色变色龙.png);
     background-repeat: no-repeat;
     background-size: 150px ,200px ,500px;
     background-position: 460px 0px,1350px 0px,850px 200px;
