@@ -1,0 +1,236 @@
+.div1{
+    width: 1500px;
+    height: 1010px;
+    background-image: url(../ml/Phase-IV-Annex/附件/images/geek.png),
+    url(../ml/Phase-IV-Annex/附件/images/首页背景.png);
+                      
+    background-position: center top 160px,center center;        
+    background-repeat: no-repeat;
+    background-size: 500px,contain;
+    -webkit-transition:0.5s; 
+
+}
+.div1:hover{ 
+    background-size:600px ,contain; 
+    }
+
+.div2{
+    width: 1500px;
+    height: 200px;
+    background-image: url(../ml/Phase-IV-Annex/附件/images/过渡花纹.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+    line-height: 150px;
+    text-shadow: -5px 5px 0px #d61f65;
+
+}
+.div3{
+    width: 1500px;
+    height: 700px;
+    
+}
+.background3{
+    width: 750px;
+    height: 700px;
+    background-image: url(../ml/Phase-IV-Annex/附件/images/houzi.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    float: right;
+}
+.content3{
+    width: 550px;
+    height: 700px;
+    float: right;
+}
+.div4{
+    width: 1400px;
+    height: 700px;
+    
+}
+
+.background4{
+    width: 750px;
+    height: 700px;
+    background-image: url(../ml/Phase-IV-Annex/附件/images/chanpin.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: right;
+}
+.content4{
+    width: 550px;
+    height: 700px;
+    float: right;
+}
+.div5{
+    width: 1500px;
+    height: 700px;
+    
+}
+.background5{
+    width: 750px;
+    height: 700px;
+    background-image: url(../ml/Phase-IV-Annex/附件/images/ai.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    float: right;
+}
+.content5{
+    width: 550px;
+    height: 700px;
+    float: right;
+}
+.div6{
+    width: 1400px;
+    height: 700px;
+    
+}
+
+.background6{
+    width: 750px;
+    height: 700px;
+    background-image: url(../ml/Phase-IV-Annex/附件/images/anquan.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: right;
+}
+.content6{
+    width: 550px;
+    height: 700px;
+    float: right;
+}
+.div7{
+    width: 1500px;
+    height: 190px;
+    text-align: center;
+    line-height: 150px;
+    text-shadow: -5px 5px 0px #d61f65;
+}
+.div8{
+    width: 1500px;
+    height: 600px;
+    background-image: url(../ml/Phase-IV-Annex/附件/images/hudie.png);
+    background-position: 1230px 330px;
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+
+.son1{
+    width: 250px;
+    height: 450px;
+    box-sizing: border-box;
+    border:10px solid #662799;
+    padding: 30px;
+    float: left;
+    margin: 20px 100px 0px 260px;
+    border-radius: 50px;
+}
+.son2{
+    width: 250px;
+    height: 450px;
+    margin: 20px 10px 0px 10px;
+    padding: 30px;
+    border:10px solid #662799;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+.son3{
+    width: 250px;
+    height: 450px;
+    margin: 20px 0px 0px 100px;
+    padding: 30px;
+    
+    border:10px solid #662799;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+.div9{
+    width: 1500px;
+    height: 500px;
+    background-image: url(../ml/Phase-IV-Annex/附件/images/yezi1.png),
+    url(../ml/Phase-IV-Annex/附件/images/树.png),
+    url(../ml/Phase-IV-Annex/附件/images/橘色变色龙.png);
+    background-repeat: no-repeat;
+    background-size: 150px ,200px ,500px;
+    background-position: 460px 0px,1350px 0px,850px 200px;
+}
+.son4{
+    text-align: center;
+    height: 150px;
+    text-shadow: -5px 5px 0px #d61f65;
+}
+
+.son5{
+    width: 500px;
+    margin-left:400px;
+}
+.son6{
+    width: 100px;
+    height: 30px;
+    margin: 20px 0px 0px 400px;
+    padding-top: 5px;
+    padding-left: 7px;
+    
+    border:1px solid #662799;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: royalblue;
+}
+.son7{
+    width: 100px;
+    height: 30px;
+    margin: 20px 0px 0px 50px;
+    padding-top: 5px;
+    padding-left: 20px;
+    
+    border:1px solid #662799;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: royalblue;
+}
+.son8{
+    width: 100px;
+    height: 30px;
+    margin: 20px 0px 0px 50px;
+    padding-top: 5px;
+    padding-left: 20px;
+    
+    border:1px solid #662799;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: royalblue;
+}
+.div10{
+    width: 1000px;
+    height: 900px;
+    
+    margin: 100px 0px 0px 250px;
+    
+
+    
+}
+.son9{
+    text-align: center;
+    text-shadow: -5px 5px 0px #d61f65;
+}
+
+*{margin:0;padding:0}
+  img{
+  vertical-align: top;
+  }
+          .top img{
+              height:168px;
+          }
+  .main{
+  margin:0 auto;
+  width:1000px;
+  margin-top:10px;
+  
+  }
