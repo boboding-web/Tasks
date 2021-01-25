@@ -13,3 +13,5 @@
 [小任务](https://github.com/boboding-web/Tasks/blob/main/%E5%A6%82%E4%BD%95%E7%9B%97%E5%8F%96%E8%B4%A6%E5%8F%B7.md)
 
 [阶段五](https://github.com/boboding-web/Tasks/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(5)/%E9%98%B6%E6%AE%B5%E4%BA%94.md)
+
+[阶段六](https://github.com/boboding-web/Tasks/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(6)/pachong.py)
